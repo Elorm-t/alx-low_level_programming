@@ -15,3 +15,5 @@ Task 5 - Hello, printf: Program outputs an exact specified string using printf.
 Task 6 - Size is not grandeur, and territory does not make a nation: Program outputs the size of various types on the computer it is compiled snd run on.
 
 Task 7 - Intel: Script generate intel syntax assembly code of a C code.
+
+Task 8 - UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity: A program that prints an exact specified string to the standard error, without using printf or puts.
