@@ -10,4 +10,6 @@ Task 3 - Name: A script that compiles a C file anc creates an executable.
 
 Task 4 - Hello, puts: A program that outputs an exact specified string using puts.
 
-Task 5 - Hello, printf: Program outpust an exact specified string using printf.
+Task 5 - Hello, printf: Program outputs an exact specified string using printf.
+
+Task 6 - Size is not grandeur, and territory does not make a nation: Program outputs the size of various types on the computer it is compiled snd run on.
