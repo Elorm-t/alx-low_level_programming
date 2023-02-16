@@ -8,4 +8,6 @@ Task 2 - Assembler: Script generates assembly code of a C code and saves in an o
 
 Task 3 - Name: A script that compiles a C file anc creates an executable.
 
-Task 4 - Hello, puts: A program that outputs an exact specified string.
+Task 4 - Hello, puts: A program that outputs an exact specified string using puts.
+
+Task 5 - Hello, printf: Program outpust an exact specified string using printf.
