@@ -17,3 +17,5 @@ Task 6 - Numberz: Program prints all single digit numbers of base 10 starting fr
 Task 7 - Smile in the mirror: Program prints lower-case letters in reverse on a line using putchar().
 
 Task 8 - Hexadecimal: Program prints all the numbers of base 16 in lowercase on a line using putchar().
+
+Task 9 - Patience, persistence and perspiration make an unbeatable combination for success: Program prints all single digit numbers separated by comma and space on a line.
