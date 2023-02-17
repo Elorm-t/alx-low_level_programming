@@ -32,7 +32,7 @@ int main(void)
 					putchar(k);
 					putchar(l);
 
-					if (i < 57)
+					if (j < 57)
 					{
 						putchar(',');
 						putchar(' ');
