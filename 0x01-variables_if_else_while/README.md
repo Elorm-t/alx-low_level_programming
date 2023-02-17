@@ -13,3 +13,5 @@ Task 4 - When I was having that alphabet soup, I never thought that it would pay
 Task 5 - Numbers: Program prints all single digit numbers of base 10 starting from 0, on a line.
 
 Task 6 - Numberz: Program prints all single digit numbers of base 10 starting from 0, on a line using putchar().
+
+Task 7 - Smile in the mirror: Program prints lower-case letters in reverse on a line using putchar().
