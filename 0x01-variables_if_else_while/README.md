@@ -23,3 +23,5 @@ Task 9 - Patience, persistence and perspiration make an unbeatable combination f
 Task 10 - Inventing is a combination of brains and materials. The more brains you use, the less material you need: Program prints all possible different combinations of two digits separated by space and comma. The two digits are different and the smallest of the combination is printed in ascending order.
 
 Task 11 - The success combination in business is: Do what you do better... and: do more of what you do...: Program prints all possible unique combination of three digits separated by space and comma in ascending order.
+
+Task 12 - Software is eating the World: Program prints all possible combinations of two two-digit numbers separated by comma and space.
