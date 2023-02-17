@@ -11,8 +11,8 @@
 
 int main(void)
 {
-	int lower_ch = 97 /* ASCII value of first lower-case letter */
-	int upper_ch = 65 /* ASCII value of first upper-case letter */
+	int lower_ch = 97; /* ASCII value of first lower-case letter */
+	int upper_ch = 65; /* ASCII value of first upper-case letter */
 
 	while (lower_ch < 123)
 	{
