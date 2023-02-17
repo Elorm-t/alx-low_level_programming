@@ -6,4 +6,6 @@ Task 1 - The last digit: Program determines the last digit of a randomly generat
 
 Task 2 - I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game: Program outputs lower-case letters of the alphabet using putchar() on a single line.
 
-Task 2 - alphABET: Program outputs lower-case letters and upper-case letters of the alphabet using putchar() on a single line.
+Task 3 - alphABET: Program outputs lower-case letters and upper-case letters of the alphabet using putchar() on a single line.
+
+Task 4 - When I was having that alphabet soup, I never thought that it would pay off: Program prints all lower-case letters except e and q, all on a line using putchar().
