@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int num = 48 /* ASCII value for digit 0 */
+	int num = 48; /* ASCII value for digit 0 */
 
 	while (num < 58)
 	{
