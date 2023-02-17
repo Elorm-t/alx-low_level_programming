@@ -19,3 +19,5 @@ Task 7 - Smile in the mirror: Program prints lower-case letters in reverse on a 
 Task 8 - Hexadecimal: Program prints all the numbers of base 16 in lowercase on a line using putchar().
 
 Task 9 - Patience, persistence and perspiration make an unbeatable combination for success: Program prints all single digit numbers separated by comma and space on a line.
+
+Task 10 - Inventing is a combination of brains and materials. The more brains you use, the less material you need: Program prints all possible different combinations of two digits separated by space and comma. The two digits are different and the smallest of the combination is printed in ascending order.
