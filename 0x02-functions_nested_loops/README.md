@@ -15,3 +15,5 @@ Task 5 - Sign: A function that prints the sign of a number.
 Task 6 - There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you: A function that computes the absolute value of an integer number.
 
 Task 7 - There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important: A function that prints and returns the last digit of a number.
+
+Task 8 - I'm federal agent Jack Bauer, and today is the longest day of my life: A function tha prints every minute of a twenty four time of  the day.
