@@ -25,7 +25,7 @@ int main(void)
 			f_2 = h3;
 			b_1 = b_2;
 			b_2 = h2;
-			printf("%lu%0l0lu", f_2, b_2);
+			printf("%lu%010lu", f_2, b_2);
 		}
 		else
 		{
@@ -34,6 +34,8 @@ int main(void)
 			b_2 = h2;
 			printf("%lu", b_2);
 		}
+		if (i != 97)
+			printf(", ");
 	}
 	printf("\n");
 
