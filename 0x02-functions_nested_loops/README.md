@@ -27,3 +27,5 @@ Task 11 - 98 Battery Street, the OG: A function that prints numbers from n to 98
 Task 12 - The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself: A function that prints n by n times-table.
 
 Task 13 - Nature made the natural numbers; All else is the work of women: Program to compute the sum of multiples of 3 and 5.
+
+Task 14 - In computer class: A program thet prints the first 50 fibonacci numbers starting with 1 and 2.
