@@ -24,14 +24,14 @@ int main(void)
 			f_1 = f_2;
 			f_2 = h3;
 			b_1 = b_2;
-			b_2 = h_2;
+			b_2 = h2;
 			printf("%lu%010lu", fr2, bk2);
 		}
 		else
 		{
-			h_2 = b_1 + b_2;
+			h2 = b_1 + b_2;
 			b_1 = b_2;
-			b_2 = h_2;
+			b_2 = h2;
 			printf("%lu", b_2);
 		}
 	}
