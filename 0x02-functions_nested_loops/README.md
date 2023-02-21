@@ -9,3 +9,5 @@ Task 2 - 10 x alphabet: A function that prints the lower-case alphabets ten time
 Task 3 - islower: A function that checks for a lower-case character.
 
 Task 4 - isalpha: A function that checks for an alphabetic character.
+
+Task 5 - Sign: A function that prints the sign of a number.
