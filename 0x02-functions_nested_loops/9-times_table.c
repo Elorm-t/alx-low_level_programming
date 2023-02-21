@@ -13,6 +13,7 @@ void times_table(void)
 
 	while (row <= 9)
 	{
+		col = 0;
 		while (col <= 9)
 		{
 			product = row * col;
