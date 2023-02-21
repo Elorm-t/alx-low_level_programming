@@ -23,7 +23,7 @@ void jack_bauer(void)
 		while (h2 < h2_reset)
 		{
 			m1 = 48;
-			while (m2 < 54)
+			while (m1 < 54)
 			{
 				m2 = 48;
 				while (m2 < 58)
