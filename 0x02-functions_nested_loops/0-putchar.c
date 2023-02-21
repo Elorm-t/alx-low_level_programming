@@ -14,7 +14,7 @@ int main(void)
 	int i = 0;
 	int str_len = sizeof(str) / sizeof(char);
 
-	while (i < str_len)
+	while (i < str_len - 1)
 	{
 		_putchar(str[i]);
 		i++;
