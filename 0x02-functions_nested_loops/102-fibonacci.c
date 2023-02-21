@@ -15,7 +15,7 @@ int main(void)
 	long int fib_2 = 1;
 	long int fib_n = fib_1 + fib_2;
 
-	printf("%ld, %ld, ", fib_1, fib_2);
+	printf("%ld, ", fib_2);
 
 	while (i <= 51)
 	{
