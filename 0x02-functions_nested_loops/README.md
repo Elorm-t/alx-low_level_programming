@@ -29,3 +29,5 @@ Task 12 - The World looks like a multiplication-table, or a mathematical equatio
 Task 13 - Nature made the natural numbers; All else is the work of women: Program to compute the sum of multiples of 3 and 5.
 
 Task 14 - In computer class: A program thet prints the first 50 fibonacci numbers starting with 1 and 2.
+
+Task 15 - Even Liber Abbaci: Program finds and prints the sum of the even-valued terms, followed by a new line.
