@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define LARGEST 10000000000
 
 /**
  * main - Entry point
@@ -8,22 +9,33 @@
 
 int main(void)
 {
-	int i = 2;
-	float fib_1 = 0;
-	float fib_2 = 1;
-	float fib_n = fib_1 + fib_2;
+	unsigned long int f_1 = 0, b_1 = 1, f_2 = 0, b = 2;
+	unsigned long int h1, h2, h3;
+	int i;
 
-	while (i <= 98)
+	print("%lu, %lu ", b_1, b_2);
+	for (i = 2; i < 98; i++)
 	{
-		printf("%.0f, ", fib_n);
-		fib_1 = fib_2;
-		fib_2 = fib_n;
-		fib_n = fib_1 + fib_2;
-
-		i++;
+		if (b_1 + b_2 > LARGEST || f_2 > 0 || f_1 > 0)
+		{
+			h1 = (b_1 + b_2) / LARGEST;
+			h2 = (b_1 + b_2) % LARGEST;
+			h3 = f_1 + f_2 + h1;
+			f_1 = f_2;
+			f_2 = h3;
+			b_1 = b_2;
+			b_2 = h_2;
+			printf("%lu%010lu", fr2, bk2);
+		}
+		else
+		{
+			h_2 = b_1 + b_2;
+			b_1 = b_2;
+			b_2 = h_2;
+			printf("%lu", b_2);
+		}
 	}
-	fib_n = fib_1 + fib_2;
-	printf("%.0f\n", fib_n);
+	print("\n");
 
 	return (0);
 }
