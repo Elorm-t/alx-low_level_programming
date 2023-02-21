@@ -17,7 +17,7 @@ int main(void)
 
 	printf("%ld, %ld, ", fib_1, fib_2);
 
-	while (i <= 50)
+	while (i <= 51)
 	{
 		printf("%ld, ", fib_n);
 		fib_1 = fib_2;
