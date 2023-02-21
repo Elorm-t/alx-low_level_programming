@@ -15,7 +15,7 @@ int main(void)
 
 	while (i <= 98)
 	{
-		printf("%.0lf, ", fib_n);
+		printf("%.0f, ", fib_n);
 		fib_1 = fib_2;
 		fib_2 = fib_n;
 		fib_n = fib_1 + fib_2;
@@ -23,7 +23,7 @@ int main(void)
 		i++;
 	}
 	fib_n = fib_1 + fib_2;
-	printf("%.0lf\n", fib_n);
+	printf("%.0f\n", fib_n);
 
 	return (0);
 }
