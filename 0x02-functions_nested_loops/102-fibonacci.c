@@ -10,14 +10,12 @@
 
 int main(void)
 {
-	int i = 3;
+	int i = 2;
 	long int fib_1 = 0;
 	long int fib_2 = 1;
 	long int fib_n = fib_1 + fib_2;
 
-	printf("%ld, ", fib_2);
-
-	while (i <= 51)
+	while (i <= 50)
 	{
 		printf("%ld, ", fib_n);
 		fib_1 = fib_2;
