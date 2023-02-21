@@ -13,7 +13,7 @@ int main(void)
 	unsigned long int h1, h2, h3;
 	int i;
 
-	print("%lu, %lu ", b_1, b_2);
+	printf("%lu, %lu ", b_1, b_2);
 	for (i = 2; i < 98; i++)
 	{
 		if (b_1 + b_2 > LARGEST || f_2 > 0 || f_1 > 0)
@@ -35,7 +35,7 @@ int main(void)
 			printf("%lu", b_2);
 		}
 	}
-	print("\n");
+	printf("\n");
 
 	return (0);
 }
