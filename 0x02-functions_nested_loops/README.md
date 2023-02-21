@@ -23,3 +23,5 @@ Task 9 - Learn your times table: A function that prints a nine times-table.
 Task 10- a + b: A function that adds two number.
 
 Task 11 - 98 Battery Street, the OG: A function that prints numbers from n to 98.
+
+Task 12 - The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself: A function that prints n by n times-table.
