@@ -9,9 +9,9 @@
 int main(void)
 {
 	int i = 2;
-	double fib_1 = 0;
-	double fib_2 = 1;
-	double fib_n = fib_1 + fib_2;
+	float fib_1 = 0;
+	float fib_2 = 1;
+	float fib_n = fib_1 + fib_2;
 
 	while (i <= 98)
 	{
