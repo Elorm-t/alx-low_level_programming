@@ -19,3 +19,5 @@ Task 7 - There are only 3 colors, 10 digits, and 7 notes; it's what we do with t
 Task 8 - I'm federal agent Jack Bauer, and today is the longest day of my life: A function tha prints every minute of a twenty four time of  the day.
 
 Task 9 - Learn your times table: A function that prints a nine times-table.
+
+Task 10- a + b: A function that adds two number.
