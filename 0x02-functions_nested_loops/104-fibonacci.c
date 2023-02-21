@@ -25,7 +25,7 @@ int main(void)
 			f_2 = h3;
 			b_1 = b_2;
 			b_2 = h2;
-			printf("%lu%010lu", fr2, bk2);
+			printf("%lu%010lu", f_2, b_2);
 		}
 		else
 		{
