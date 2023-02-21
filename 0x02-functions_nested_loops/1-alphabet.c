@@ -1,4 +1,4 @@
-#include "alx.h"
+#include "main.h"
 
 /**
  * print_alphabet - Prints all lower-case alphabets.
@@ -15,5 +15,5 @@ void print_alphabet(void)
 		ch++;
 	}
 
-	_putchar('ch');
+	_putchar('\n');
 }
