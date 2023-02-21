@@ -7,3 +7,5 @@ Task 1 - I sometimes suffer from insomnia. And when I can't fall asleep, I play 
 Task 2 - 10 x alphabet: A function that prints the lower-case alphabets ten times.
 
 Task 3 - islower: A function that checks for a lower-case character.
+
+Task 4 - isalpha: A function that checks for an alphabetic character.
