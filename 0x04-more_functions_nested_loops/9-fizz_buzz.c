@@ -27,7 +27,7 @@ int main(void)
 		i++;
 	}
 
-	printf("\n");
+	printf("\b\n");
 
 	return (0);
 }
