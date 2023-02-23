@@ -19,7 +19,7 @@ int main(void)
 		else
 			divisor++;
 	}
-	print("%li\n", quotient);
+	printf("%li\n", quotient);
 
 	return (0);
 }
