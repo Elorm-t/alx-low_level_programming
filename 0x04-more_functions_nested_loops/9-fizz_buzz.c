@@ -27,5 +27,8 @@ int main(void)
 		i++;
 	}
 
+	if (i == 101)
+		printf("\b");
+
 	return (0);
 }
