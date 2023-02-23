@@ -13,3 +13,5 @@ Task 4 - I believe in numbers and signs: A function that prints numbers 0 to 9 e
 Task 5 - Numbers constitute the only universal language: A function that prints 0 to 14 ten times.
 
 Task 6 - The shortest distance between two points is a straight line: A function that prints a straight line.
+
+Task 7 - I feel like I am diagonally parked in a parallel universe: A function that draws a diagonal line in the terminal.
