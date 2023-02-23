@@ -8,17 +8,27 @@
 
 void print_number(int n)
 {
+	unsigned int div, val, c;
+
 	if (n < 0)
 	{
 		_putchar('-');
-		n = -n;
+		val = -n;
+	}
+	else
+		val = n;
+
+	div = val;
+	c = 1;
+
+	while (d > 9)
+	{
+		d /= 10;
+		c *= 10;
 	}
 
-	if (n == 0)
-		_putchar('0');
-
-	if (n / 10)
-		print_number(n / 10);
-
-	_putchar((n % 10) + '0');
+	for (; c >= 1; c /= 10)
+	{
+		_putchar(((m / c) % 10) + '0');
+	}
 }
