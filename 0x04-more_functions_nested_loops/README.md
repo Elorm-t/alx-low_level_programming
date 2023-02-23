@@ -19,3 +19,5 @@ Task 7 - I feel like I am diagonally parked in a parallel universe: A function t
 Task 8 - You are so much sunshine in every square inch: A function that prints a square.
 
 Task 9 - Fizz-Buzz: A program that print a number, fizz, buzz, or fizzBuzz based on a condition.
+
+Task 10 - Triangles: A function that prints a triangle.
