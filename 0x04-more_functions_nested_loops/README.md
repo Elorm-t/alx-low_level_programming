@@ -21,3 +21,5 @@ Task 8 - You are so much sunshine in every square inch: A function that prints a
 Task 9 - Fizz-Buzz: A program that print a number, fizz, buzz, or fizzBuzz based on a condition.
 
 Task 10 - Triangles: A function that prints a triangle.
+
+Task 11 - Te problem of distinguishing prime numbers: A program that finds and prints the largest prime factor of a given number.
