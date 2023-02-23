@@ -32,7 +32,7 @@ int main(void)
 		i++;
 	}
 
-	printf("\b\n");
+	printf("\n");
 
 	return (0);
 }
