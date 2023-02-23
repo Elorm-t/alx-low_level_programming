@@ -22,4 +22,6 @@ Task 9 - Fizz-Buzz: A program that print a number, fizz, buzz, or fizzBuzz based
 
 Task 10 - Triangles: A function that prints a triangle.
 
-Task 11 - Te problem of distinguishing prime numbers: A program that finds and prints the largest prime factor of a given number.
+Task 11 - The problem of distinguishing prime numbers: A program that finds and prints the largest prime factor of a given number.
+
+Task 12 - Numbers have life; they're not just symbols on paper: A function that prints an integer.
