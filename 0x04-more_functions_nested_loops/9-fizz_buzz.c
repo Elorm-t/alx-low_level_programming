@@ -27,8 +27,7 @@ int main(void)
 		i++;
 	}
 
-	if (i == 101)
-		printf("\b\n");
+	printf("\n");
 
 	return (0);
 }
