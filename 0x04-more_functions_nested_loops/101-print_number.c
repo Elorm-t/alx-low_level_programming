@@ -21,14 +21,14 @@ void print_number(int n)
 	div = val;
 	c = 1;
 
-	while (d > 9)
+	while (div > 9)
 	{
-		d /= 10;
+		div /= 10;
 		c *= 10;
 	}
 
 	for (; c >= 1; c /= 10)
 	{
-		_putchar(((m / c) % 10) + '0');
+		_putchar(((val / c) % 10) + '0');
 	}
 }
