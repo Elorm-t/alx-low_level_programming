@@ -17,3 +17,5 @@ Task 6 - The shortest distance between two points is a straight line: A function
 Task 7 - I feel like I am diagonally parked in a parallel universe: A function that draws a diagonal line in the terminal.
 
 Task 8 - You are so much sunshine in every square inch: A function that prints a square.
+
+Task 9 - Fizz-Buzz: A program that print a number, fizz, buzz, or fizzBuzz based on a condition.
