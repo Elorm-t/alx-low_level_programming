@@ -17,3 +17,5 @@ Task 6 - Half the lies they tell about me aren't true: A function that prints ev
 Task 7 - Winning is only half of it. Having fun is the other half: A function that prints half of a string.
 
 Task 8 - Arrays are not pointer: A function that prnints n elements of an array of integers.
+
+Task 9 - strcpy: A function that copies a string pointed to.
