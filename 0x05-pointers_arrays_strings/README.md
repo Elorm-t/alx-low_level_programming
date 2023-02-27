@@ -9,3 +9,5 @@ Task 2 - This report, by its very length, defends itself against the risk of bei
 Task 3 - I do not fear computers. I fear the lack of them: A function that prints a string.
 
 Task 4 - I can only go one way. I've not got a reverse gear: A function that prints a string in reverse.
+
+Task 5 - A good engineer thinks in reverse and asks: A function that reverses a string.
