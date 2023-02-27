@@ -7,3 +7,5 @@ Task 1 - Don't swap horses in crosing a stream: A function that swaps the values
 Task 2 - This report, by its very length, defends itself against the risk of being read: A function that returns the length of a string.
 
 Task 3 - I do not fear computers. I fear the lack of them: A function that prints a string.
+
+Task 4 - I can only go one way. I've not got a reverse gear: A function that prints a string in reverse.
