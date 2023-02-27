@@ -19,3 +19,5 @@ Task 7 - Winning is only half of it. Having fun is the other half: A function th
 Task 8 - Arrays are not pointer: A function that prnints n elements of an array of integers.
 
 Task 9 - strcpy: A function that copies a string pointed to.
+
+Task 10 - Great leaders are willing to sacrifice the numbers: A function that converts a string to integer.
