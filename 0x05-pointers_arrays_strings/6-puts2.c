@@ -11,9 +11,9 @@ void puts2(char *str)
 {
 	int ctr = 0;
 
-	while (s[ctr] != '\0')
+	while (str[ctr] != '\0')
 	{
-		_putchar(s[ctr]);
+		_putchar(str[ctr]);
 		ctr += 2;
 	}
 
