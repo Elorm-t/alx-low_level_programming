@@ -13,3 +13,5 @@ Task 4 - I am a kind of paranoid in reverse. I suspect people of plotting to mak
 Task 5 - Always look up: A function that changes all lowercase letters of a string to uppercase.
 
 Task 6 - Expect the best. Prepare for the worst. Capitalize on what comes: A function that capitalize all words of a string.
+
+Task 7 - Mozart composed his music not for the elite, but for everybody: A function that encodes a string into 1337.
