@@ -13,7 +13,7 @@ char *rot13(char *str)
 	char ch[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 	char enc[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
-	while (str[i] != '\n')
+	while (str[i] != '\0')
 	{
 		for (j = 0; j < 52; j++)
 		{
