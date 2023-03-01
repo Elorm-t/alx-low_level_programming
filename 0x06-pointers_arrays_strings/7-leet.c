@@ -17,7 +17,7 @@ char *leet(char *str)
 	{
 		for (j = 0; j < 5; j++)
 		{
-			if (str[i] = ch[j] || str[i] == (ch[j] - 32))
+			if (str[i] == ch[j] || str[i] == (ch[j] - 32))
 			{
 				str[i] = nums[j];
 				break;
