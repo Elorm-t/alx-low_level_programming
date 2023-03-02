@@ -13,6 +13,7 @@ void print_number(int n)
 
 	val = n;
 	p = 1;
+	flag = 0;
 
 	if (n < 0)
 	{
