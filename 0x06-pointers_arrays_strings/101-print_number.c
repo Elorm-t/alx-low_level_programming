@@ -9,27 +9,42 @@
 
 void print_number(int n)
 {
-	unsigned int div, val, c;
+	int val, p, flag;
+
+	val = n;
+	p = 1;
 
 	if (n < 0)
 	{
 		_putchar('-');
-		val = -n;
-	}
-	else
-		val = n;
-
-	div = val;
-	c = 1;
-
-	while (div > 9)
-	{
-		div /= 9;
-		c *= 10;
+		flag = 1;
 	}
 
-	for (; c >= 1; c /= 10)
+	while (val > 9 || val < -9)
 	{
-		_putchar(((val / c) % 10) + '0');
+		p *= 10;
+		val /= 10;
+	}
+
+	while (p > 0)
+	{
+		if (p > 9)
+		{
+			if (!flag)
+				_putchar((n / p % 10) + '0');
+			else
+				_putchar((n / p % 10) * -1 + '0');
+
+			p /= 10;
+		}
+
+		if (p == 1)
+		{
+			if (flag)
+				_putchar((n % 10) * -1 + '0');
+			else
+				_putchar(n % 10 + '0');
+			p = 0;
+		}
 	}
 }
