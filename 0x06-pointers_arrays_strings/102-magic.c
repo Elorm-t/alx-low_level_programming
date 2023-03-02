@@ -12,7 +12,7 @@ int main(void)
 	 * write line of code here...
 	 * Remember:
 	 * - you are not allowed to use a
-	 * - you are note allowed to modify p
+	 * - you are not allowed to modify p
 	 * - only one statement
 	 * - you are not allowed to code anything alse than this line of code
 	 */
