@@ -11,3 +11,5 @@ Task 3 - strspn: A function that gets the length of a prefix substring.
 Task 4 - strpbrk: A function that searches a string for any of a set of bytes.
 
 Task 5 - strstr: A function that locates a substring.
+
+Task 6 - Chess is mental torture: A function thatt prints the chessboard.
