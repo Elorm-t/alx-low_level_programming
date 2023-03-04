@@ -17,3 +17,5 @@ Task 6 - Chess is mental torture: A function thatt prints the chessboard.
 Task 7 - The line of life is a ragged diagonal between duty and desire: A function that prints the sum of the two diagonals of a square matrix of integers.
 
 Task 8 - Double pointer, double fun: A function that sets the value of a pointer to char.
+
+Task 9 - My primary goal of hacking: Create a file that contains password of an executable.
