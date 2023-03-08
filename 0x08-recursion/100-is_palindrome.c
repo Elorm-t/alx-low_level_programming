@@ -11,10 +11,10 @@ int str_len(char *str)
 {
 	int ctr;
 
-	if (*s == '\0')
+	if (*str == '\0')
 		return (0);
 
-	ctr = 1 + str_len(s + 1);
+	ctr = 1 + str_len(str + 1);
 
 	return (ctr);
 }
