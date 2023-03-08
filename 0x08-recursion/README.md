@@ -15,3 +15,5 @@ Task 5 - Your subconscious is looking for the dreamer: A function that returns t
 Task 6 - Inception. Is it possible?: A  function that returns 1 if the input integer is a prime number, otherwise return 0.
 
 Task 7 - They say we only use a fraction of our brain's true potential: A function that returns 1 if a string is a palindrome and 0 if not.
+
+Task 8 - Inception. Now, before you bother telling me it's impossible...: A function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
