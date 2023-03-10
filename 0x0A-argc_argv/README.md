@@ -7,3 +7,5 @@ Task 1 - Silence is argument carried out by other means: A program that prints t
 Task 2 - The best argument against ddemocracy: A program that prints all arguments it receives.
 
 Task 3 - Neither irony nor sarcasm is argument: A program that multiplies two numbers.
+
+Task 4 - To infinity and beyond: A program that adds positive numbers.
