@@ -9,3 +9,5 @@ Task 2 - The best argument against ddemocracy: A program that prints all argumen
 Task 3 - Neither irony nor sarcasm is argument: A program that multiplies two numbers.
 
 Task 4 - To infinity and beyond: A program that adds positive numbers.
+
+Task 5 - Minimal Number of Coins for Change: A program that prints the minimum number of coins to make change for an amount of money.
