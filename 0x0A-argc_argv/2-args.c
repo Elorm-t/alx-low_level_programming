@@ -18,6 +18,7 @@ int main(int argc, char *argv[])
 	{
 		printf("%s\n", argv[i]);
 		i++;
+		argc--;
 	}
 
 	return (0);
