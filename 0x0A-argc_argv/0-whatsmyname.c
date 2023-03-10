@@ -11,7 +11,7 @@
  * Return: Always 0 (success)
  */
 
-int main(argc, *argv[])
+int main(int argc, char *argv[])
 {
 	if (argc == 1)
 		printf("%s\n", argv[argc - 1]);
