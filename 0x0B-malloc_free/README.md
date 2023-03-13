@@ -3,3 +3,5 @@ Project - 0x0B-malloc_free
 Task 0 - Float like a butterfly, sting like a bee: A function that creates an array of chars, and initializes it with a specific char.
 
 Task 1 - The woman who has no imagination has no wings: A function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
+
+Task 2 - He who is not courageous: A function that concatenates two strings.
