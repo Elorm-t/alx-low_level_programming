@@ -11,7 +11,7 @@
 
 char *str_concat(char *s1, char *s2)
 {
-	int i, j, k, l;
+	int i, j, k, l, arr_len;
 	char *arr;
 
 	i = j = k = l = 0;
@@ -28,7 +28,7 @@ char *str_concat(char *s1, char *s2)
 	while (s2[j] != '\0')
 		j++;
 
-	int arr_len = i + j + 1;
+	arr_len = i + j + 1;
 
 	arr = malloc(sizeof(char) * i + sizeof(char) * j + 1);
 
