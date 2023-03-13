@@ -39,7 +39,8 @@ char *str_concat(char *s1, char *s2)
 	{
 		if (k < i)
 			arr[k] = s1[k];
-		arr[k] = s2[l];
+		else
+			arr[k] = s2[l];
 	}
 	arr[l] = '\0';
 
