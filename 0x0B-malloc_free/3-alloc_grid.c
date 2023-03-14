@@ -3,8 +3,8 @@
 
 /**
  * alloc_grid - creats a 2d array
- * @width: size of row of grid
- * @height: size of column of grid
+ * @width: size of column of grid
+ * @height: size of row of grid
  *
  * Return: NULL on failure, NULL is width or height is 0 or negative,
  * or a pointer to 2d array if no error.
