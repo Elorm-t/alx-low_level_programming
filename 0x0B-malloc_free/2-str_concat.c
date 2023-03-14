@@ -35,12 +35,12 @@ char *str_concat(char *s1, char *s2)
 	if (arr == 0)
 		return (NULL);
 
-	for (; k < arr_len; k++, l++)
+	for (; k < arr_len; k++)
 	{
 		if (k < i)
 			arr[k] = s1[k];
 		else
-			arr[k] = s2[l];
+			arr[k] = s2[l++];
 	}
 	arr[arr_len] = '\0';
 
